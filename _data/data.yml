@@ -73,10 +73,10 @@ experiences:
       time: January 2022 - Present
       company: Spatial Front Inc.
       details: |
-        • Leveraged skills with React, TypeScript & SCSS for a federal agency’s software modernization effort in a Scaled Agile 
+        - Leveraged skills with React, TypeScript & SCSS for a federal agency’s software modernization effort in a Scaled Agile 
 development framework (SAFe)
-        • Tested proper functioning of components using Jest testing library, and fixed various bugs and logic errors in codebase.
-        • Developed responsive user-interfaces to UX team’s specifications that were also Section 508 compliant.
+        - Tested proper functioning of components using Jest testing library, and fixed various bugs and logic errors in codebase.
+        - Developed responsive user-interfaces to UX team’s specifications that were also Section 508 compliant.
     - role: Technology Intern - Data Science & Machine Learning
       time: 2014 - 2015
       company: Google, London
