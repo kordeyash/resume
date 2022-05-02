@@ -46,14 +46,7 @@ sidebar:
         link:
 
 career-profile:
-    #title: Career Profile
-    #summary: |
-#      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-#      adipiscing elit. You can [download this free resume/CV template here]().
-#      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-#      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-#      Donec quam felis, ultricies nec, pellentesque eu.
-#      Second paragraph if required.
+    Hi! Welcome to my page!
 education:
     - degree: Bachelor of Science in Computer Science
       university: Virginia Tech College of Engineering
@@ -63,19 +56,19 @@ education:
         Minors: Mathematics, Human-Computer Interaction
         Activities and Achievements:
           - Hume Center Intelligence Community Center of Academic Excellence (IC CAE) Scholar
-          - Hume Center IC CAE Research Fellowship Scholarship Award Recepiant 2021 – 2022
+          - Hume Center IC CAE Research Fellowship Scholarship Award Recepiant 2021-- 2022
           - Virginia Tech Computer Science Department Undergraduate Ambassador
-          - LewisGale Hospital – Montgomery Student Volunteer
+          - LewisGale Hospital - Montgomery Student Volunteer
           - Society of Hispanic Professional Engineers Member
-          - Virginia Tech Dean’s List 2019-2021
+          - Virginia Tech Dean's List 2019-2021
 experiences:
     - role: Software Developer - Front-End
       time: January 2022 - Present
       company: Spatial Front Inc.
       details:
-        - Leveraged skills with React, TypeScript & SCSS for a federal agency’s software modernization effort in a Scaled Agile development framework (SAFe)
+        - Leveraged skills with React, TypeScript & SCSS for a federal agency's software modernization effort in a Scaled Agile development framework (SAFe)
         - Tested proper functioning of components using Jest testing library, and fixed various bugs and logic errors in codebase.
-        - Developed responsive user-interfaces to UX team’s specifications that also met 508 Compliance.
+        - Developed responsive user-interfaces to UX team's specifications that also met 508 Compliance.
     - role: Technology Intern - Data Science & Machine Learning
       time: June 2021 - August 2021
       company: CarMax
@@ -145,7 +138,7 @@ publications:
       - title: A syntax directed compiler for Algol 60
         link: "#"
         authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        conference: "Comm. ACM 4 (1961), 51-55"
 
 skills:
     title: Skills &amp; Proficiency
