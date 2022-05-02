@@ -15,7 +15,7 @@ sidebar:
     email: yakorde@vt.edu
     phone: 804 300 6238
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    website: #do not add http://
     linkedin: kordeyash
     xing: 
     github: 
@@ -109,7 +109,7 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Velocity
-        link: "#hook"
+        link: "https://www.linkedin.com/in/kordeyash/"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
@@ -129,7 +129,7 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Certifications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
