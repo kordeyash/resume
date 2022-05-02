@@ -36,14 +36,14 @@ sidebar:
         level: Native
 
     #interests:
-      - item: 
-        link:
+    #  - item: 
+    #    link:
 
-      - item: 
-        link:
+    #  - item: 
+    #    link:
 
-      - item: 
-        link:
+    #  - item: 
+    #    link:
 
 career-profile:
     Hi! Welcome to my page!
@@ -67,7 +67,8 @@ experiences:
       company: Spatial Front Inc.
       details: |
         Worked on the data science and machine learning team
-          - Bullet point
+          - Leveraged skills with React, TypeScript & SCSS for a federal agency's 
+            software modernization effort in a Scaled Agile development framework (SAFe)
           - Bullet point
     - role: Technology Intern - Data Science & Machine Learning
       time: June 2021 - August 2021
