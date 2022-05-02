@@ -72,9 +72,8 @@ experiences:
     - role: Software Developer - Front-End
       time: January 2022 - Present
       company: Spatial Front Inc.
-      details: |
-        - Leveraged skills with React, TypeScript & SCSS for a federal agency’s software modernization effort in a Scaled Agile 
-development framework (SAFe)
+      details:
+        - Leveraged skills with React, TypeScript & SCSS for a federal agency’s software modernization effort in a Scaled Agile development framework (SAFe)
         - Tested proper functioning of components using Jest testing library, and fixed various bugs and logic errors in codebase.
         - Developed responsive user-interfaces to UX team’s specifications that also met 508 Compliance.
     - role: Technology Intern - Data Science & Machine Learning
