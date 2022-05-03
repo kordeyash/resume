@@ -68,7 +68,10 @@ experiences:
       details: |
           - Leveraged skills with React, TypeScript & SCSS for a federal agency's 
             software modernization effort in a Scaled Agile development framework (SAFe)
-          - Bullet point
+          - Tested proper functioning of components using Jest testing library, and 
+            fixed various bugs and logic errors in codebase.
+          - Developed responsive user-interfaces to UX team's 
+            specifications and meeting Section 508 compliance.
     - role: Technology Intern - Data Science & Machine Learning
       time: June 2021 - August 2021
       company: CarMax
