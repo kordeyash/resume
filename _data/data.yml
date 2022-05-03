@@ -94,19 +94,20 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: Projects
+    title: Research Projects
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "https://www.linkedin.com/in/kordeyash/"
+      - title: Using Artificial Intelligence as a Predicting Tool for Limb Salvage Versus Amputation
+        link: "https://drive.google.com/drive/folders/1Kg0yv9qK7QTwgbBbCek-IhAb79DVD39-?usp=sharing"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Designed AI/ML high-level framework by producing a pipeline flowchart with details of 
+          AI training, evaluation, and test experiments for validation."
 
       - title: Tempo
         link: "#"
