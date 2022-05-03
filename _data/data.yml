@@ -70,7 +70,7 @@ experiences:
             fixed various bugs and logic errors in codebase.
           - Developed responsive user-interfaces to UX team's 
             specifications and meeting Section 508 compliance.
-    - role: Technology Intern - Data Science & Machine Learning
+    - role: Technology Intern
       time: June 2021 - August 2021
       company: CarMax
       details: |
@@ -82,32 +82,35 @@ experiences:
             deployment, and a central model registry allowing for future improvements and maintenance of models.
           - Followed modern CI/CD practices utilizing Azure DevOps to allow for the deployment 
           of ML REST inference endpoint hosted in Azure Cloud allowing for sub-second inference.
-    - role: Software Engineering Intern - Application Development
+    - role: Software Engineering Intern
       time: June 2020 - August 2020
       company: General Dynamics Mission Systems
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Supported the GDMS Nuclear Monitoring Program by incorporating problem solving 
+            techniques and Agile methodology to develop new monitoring tools in support of remote air monitoring equipment.
+          - Developed a Java-based simulator of a microcontroller board for remote and virtual 
+            testing by utilizing standard machine communication protocols and reduced physical machine 
+            usage by 35% resulting in less depreciation and wear-and-tear.
+          - Created a text-based UI that allows for seamless access and integrated
+            control of the simulator in a Linux environment.
+          - Authored a RTDE report detailing the improvements to the 
+            simulator project to be presented to the client.
+
+          
 projects:
     title: Research Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     assignments:
       - title: Using Artificial Intelligence as a Predicting Tool for Limb Salvage Versus Amputation
         link: "https://drive.google.com/drive/folders/1Kg0yv9qK7QTwgbBbCek-IhAb79DVD39-?usp=sharing"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
         tagline: "Designed AI/ML high-level framework by producing a pipeline flowchart with details of 
-          AI training, evaluation, and test experiments for validation."
+          AI training, evaluation, and test experiments for validation"
+
+      - title: Refining NFL Scheduling
+        link: "https://drive.google.com/file/d/1erzfI3-EM3kcafzKyiEtHIlJx6zQqKOb/view?usp=sharing"
+        tagline: "Used fundamental concepts of applied combinatorics and graph theory, such as distributions 
+          and Hamiltonian paths and circuits to optimize the NFL scheduling system to reduce costs and increase efficiency."
 
       - title: Tempo
         link: "#"
