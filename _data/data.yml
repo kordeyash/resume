@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: yakorde@vt.edu
     phone: 804 300 6238
-    citizenship: Untied States
+    citizenship: Untied States citizen
     website: #do not add http://
     linkedin: kordeyash
     xing: 
@@ -45,8 +45,6 @@ sidebar:
     #  - item: 
     #    link:
 
-career-profile:
-    Hi! Welcome to my page!
 education:
     - degree: Bachelor of Science in Computer Science
       university: Virginia Tech College of Engineering
