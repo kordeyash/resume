@@ -117,11 +117,10 @@ publications:
     title: Certifications
     intro: |
       Work in progress
-    #papers:
-    #  - title: The Art of Computer Programming
-    #    link: "#"
-    #    authors: Donald E. Knuth
-    #    conference: Addison-Wesley, 1968
+    papers:
+      - title: Python (Basic) Certificate
+        link: "https://www.hackerrank.com/certificates/4d4c0f8412a9"
+        company: HackerRank
 
     #  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
     #    link: "#"
