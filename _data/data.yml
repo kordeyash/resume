@@ -63,7 +63,7 @@ experiences:
     - role: Software Developer
       time: January 2022 - present
       company: Spatial Front Inc.
-      details: 
+      details: |
           - Leveraged skills with React, TypeScript & SCSS for a federal agency's 
             software modernization effort in a Scaled Agile development framework (SAFe)
           - Tested proper functioning of components using Jest testing library, and 
@@ -74,9 +74,14 @@ experiences:
       time: June 2021 - August 2021
       company: CarMax
       details: |
-        Worked on the data science and machine learning team
-          - Bullet point
-          - Bullet point
+          - Participated on a fast-paced, collaborative product team with a primary 
+            focus on computer vision.
+          - Engineered four separate machine learning models to aid in the discovery and correction of 
+            blurry images on CarMax.com.
+          - Utilized MLFlow to manage the machine learning lifecycle, including experimentation, reproducibility, 
+            deployment, and a central model registry allowing for future improvements and maintenance of models.
+          - Followed modern CI/CD practices utilizing Azure DevOps to allow for the deployment 
+          of ML REST inference endpoint hosted in Azure Cloud allowing for sub-second inference.
     - role: Software Engineering Intern - Application Development
       time: June 2020 - August 2020
       company: General Dynamics Mission Systems
