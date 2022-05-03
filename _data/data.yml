@@ -120,7 +120,7 @@ publications:
     papers:
       - title: Python (Basic) Certificate
         link: "https://www.hackerrank.com/certificates/4d4c0f8412a9"
-        author: HackerRank
+        authors: HackerRank
 
     #  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
     #    link: "#"
